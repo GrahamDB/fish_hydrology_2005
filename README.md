@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/370410679.svg)](https://zenodo.org/badge/latestdoi/370410679)
+
 # Hydrological and morphological time series
 
 Data columns
